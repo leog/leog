@@ -1,16 +1,29 @@
 ### Hi there 👋
 
-<!--
-**leog/leog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on:
+  - @PartidoDigital's [next website](https://github.com/PartidoDigital/PartidoDigital-Web-Next) with TypeScript, @TailwindLabs's TailwindCSS/UI and Jekyll. 
+  
+    > Partido Digital is the first digital political party, and is located in Uruguay where I'm from. I'm the VP and CTO. It brings full transparency and participation to the table again, relying on digital tools. Everything we use internally as an organization as well as externally with the citizenship is open source as we strongly believe digital tools are the way to go but it’s not the definitive key; the willingness to open up and include more people is the absolute key. There are thousands of very good tools, all open source free of charge, but not every political party wants to decentralize power to the ones who have it in the first place: the people.
+  - As part as @GlobantUY, I'm working with NBC Universal on a new way to buy digital content, that's what I'm allowed to say 😅 Picture a shopify store, which talks to NBC through a middleware (what I'm working on) to acquire digital content with something that's not money per-se ✨
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning:
+  - Next.js and how to package a mobile app through @Ionic-team's Capacitor and @TailwindLabs's TailwindCSS, taking a look at @mlynch [recent example](https://github.com/mlynch/nextjs-tailwind-capacitor) on how to do that. The main objective would be to create a @PartidoDigital Mobile App.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👯 I’m looking to collaborate on:
+  - Anything that crosses my path on achieving the objectives listed above.
+
+- 🤔 I’m looking for help with:
+  - At @PartidoDigital we are looking for help to have a Blockchain digital tool in order to use for voting with traces and full transparency. I think the very best tool for this use case at the moment is [LiquidFeedback](https://liquidfeedback.org/) but it doesn't support Blockchain and it's very complicated to install and maintain/modify as it is built with Lua programming language. Any ideas on any other good tool please reach out! 🔈
+  
+- 💬 Ask me about:
+  - I love tennis, as the matter of fact, I play it pretty frequently. I consider myself to be an advance player, but nothing is said before a match where the magic happens... BTW, I'm a big Roger Federer supporter, you can talk to me about that too if you like.
+  - Anything related to political movements in the digital world would pique my interest as well. Handling a platform and its tools in a large organization that promotes participation and transparency would also achieve that 😄
+
+- 📫 How to reach me: 
+  - By Twitter @leog, by Telegram @leogiovanetti
+  
+- 😄 Pronouns: he/his/his
+
+- ⚡ Fun fact: 
+  - I have a baby girl, named Federica, born February 24th 2020 👶
+  - I have a white cat, named Pixel 🐱
