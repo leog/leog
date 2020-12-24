@@ -17,7 +17,7 @@
   - At @PartidoDigital we are looking for help to have a Blockchain digital tool in order to use for voting with traces and full transparency. I think the very best tool for this use case at the moment is [LiquidFeedback](https://liquidfeedback.org/) but it doesn't support Blockchain and it's very complicated to install and maintain/modify as it is built with Lua programming language. Any ideas on any other good tool please reach out! 🔈
   
 - 💬 Ask me about:
-  - I love tennis, as the matter of fact, I play it pretty frequently. I consider myself to be an advance player, but nothing is said before a match where the magic happens... BTW, I'm a big Roger Federer supporter, you can talk to me about that too if you like.
+  - I love tennis, as the matter of fact, I play it pretty frequently. I consider myself to be an advanced player, but nothing is said before a match where the magic happens... BTW, I'm a big Roger Federer supporter, you can talk to me about that too if you like.
   - Anything related to political movements in the digital world would pique my interest as well. Handling a platform and its tools in a large organization that promotes participation and transparency would also achieve that 😄
 
 - 📫 How to reach me: 
